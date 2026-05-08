@@ -1,7 +1,7 @@
 ---
 Title: Big Picture of NLP
 Date Created: 18-January-2026 00:00:00
-Last Modified: 08-May-2026 12:33:41
+Last Modified: 08-May-2026 12:52:12
 Tags:
   - CS4248
   - AI/NLP
@@ -29,7 +29,7 @@ NLP's can be used in:
 >- Poor interpretability & controllability
 >- Poor performance for domain-specific task
 
-In the end there are many ways to evaluate a NLP, however there is a <b><span style='color: #FFD700'>trade off between accuracy and interpretability</span></b>. A better model is more complex but lacks interpretability. So <b><span style='color: #98FB98'>generally it is better to make a model that is more interpretable while sacrificing accuracy</span></b>.
+In the end there are many ways to evaluate a NLP model, however there is a <b><span style='color: #FFD700'>trade off between accuracy and interpretability</span></b>. A better model is more complex but lacks interpretability. So <b><span style='color: #98FB98'>generally it is better to make a model that is more interpretable while sacrificing accuracy</span></b>.
 ## Core Building Blocks of NLP
 
 We need to understand languages, for English here are the core building blocks, each requiring elements of the previous:
